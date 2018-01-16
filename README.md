@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+#Clone with git
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+git clone https://github.com/davidtoomey/youtube-api-search.git
 
-### Getting Started
+#Get a youtube search v3 api
 
-There are two methods for getting started with this repo.
+in src/index.js paste in your API_KEY
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#Install dependencies
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+npm install
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#Webpack development server
 
-```
-> npm install
-> npm start
-```
+npm start
+
+will serve files on localhost:8080
